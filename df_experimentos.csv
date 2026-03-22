@@ -1,3 +1,7 @@
 experiment_id,date_max,n_repet,random_state,extra_sufixo_mark,fi_cut,n_fib,corte_fib,n_fib_menor,md_center_f_i,mf_center_f_i,mss_center_f_i,msl_center_f_i,md_center_p_i,mf_center_p_i,mss_center_p_i,msl_center_p_i,tscv,n_iter_t_filter,n_iter_t_pred,amp,metricas
 99bfa8db-f135-4d6c-a994-7f33cdce6d03,2026-02-01,2,0,_ficut3_feateng1_fi_cut_reduc0.001_fev_26,0.3,20,2,9,7,7,2,4,7,7,2,4,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=5, test_size=None)",1,1,1,"  CO_MES CO_PRDT CO_GEO2 CO_GEO3  rmse  rmse_lr   r2  r2_lr  acc
 0     09    3105     091     999   3.1     34.3 -3.7 -553.4  1.0"
+491dc5dd-d97d-4a6d-b2c8-abb481fc9025,2026-02-01 00:00:00,2,0,_ficut3_feateng1_fi_cut_reduc0.001_fev_26,0.3,20,2,9,7,7,2,4,7,7,2,4,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=5, test_size=None)",1,1,1,"  CO_MES CO_PRDT CO_GEO2 CO_GEO3  rmse  rmse_lr   r2  r2_lr  acc
+0     09    3105     091     999   2.2     34.3 -1.4 -553.4  1.0"
+6e8cde0b-a8ad-4bec-b062-2b2c5cea325d,2026-02-01 00:00:00,2,0,_ficut3_feateng1_fi_cut_reduc0.001_fev_26,0.3,20,2,9,13,3,2,4,7,7,2,4,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=5, test_size=None)",1,1,1,"  CO_MES CO_PRDT CO_GEO2 CO_GEO3  rmse  rmse_lr   r2  r2_lr  acc
+0     09    3105     091     999   2.3     34.3 -1.6 -553.4  1.0"
