@@ -1,33 +1,9 @@
 names,importances,experiment_id,CO_MES,var_target
-"('03~mes', '-27:-51', 'mm')",0.024968935724019623,7aaaab19-4954-41f7-a924-f24b9b6ac698,03~mes,kt
-"('05~mes', '4703~prdt', '081~geo2', '999~geo3', 'kt')",0.024596525335200622,7aaaab19-4954-41f7-a924-f24b9b6ac698,03~mes,kt
-"('10~mes', '-22:-42', 'mm')",0.021527333628561834,7aaaab19-4954-41f7-a924-f24b9b6ac698,03~mes,kt
-"('03~mes', '3808~prdt', '081~geo2', '999~geo3', 'kt')",0.015216034744760238,7aaaab19-4954-41f7-a924-f24b9b6ac698,03~mes,kt
-"('07~mes', '-31:-55', 'mm')",0.014593858398709273,7aaaab19-4954-41f7-a924-f24b9b6ac698,03~mes,kt
-ANO,0.0,7aaaab19-4954-41f7-a924-f24b9b6ac698,03~mes,oc
-ANO,0.0,fc80098d-bbe4-41c1-82cd-5ee6950a1b62,04~mes,kt
-ANO,0.0,fc80098d-bbe4-41c1-82cd-5ee6950a1b62,04~mes,oc
-ANO,0.0,639ef3f5-ea46-4368-9bc7-a96a94e03119,05~mes,kt
-ANO,0.0,639ef3f5-ea46-4368-9bc7-a96a94e03119,05~mes,oc
-ANO,0.0,6d0d9c41-f5c3-41be-a135-dcea0f430dfc,06~mes,kt
-ANO,0.0,6d0d9c41-f5c3-41be-a135-dcea0f430dfc,06~mes,oc
-ANO,0.0,bae8d598-afc2-4a6b-a494-5b236eb4fcca,07~mes,kt
-ANO,0.0,bae8d598-afc2-4a6b-a494-5b236eb4fcca,07~mes,oc
-ANO,0.0,440539c4-456c-4a40-9c0c-b06924585e07,08~mes,kt
-ANO,0.0,440539c4-456c-4a40-9c0c-b06924585e07,08~mes,oc
-ANO,0.0,0ff48b83-2e91-4d92-be08-e3c14997d6a1,09~mes,kt
-ANO,0.0,0ff48b83-2e91-4d92-be08-e3c14997d6a1,09~mes,oc
-ANO,0.0,87e1a218-a681-478f-8acd-f7d9ece6a411,10~mes,kt
-ANO,0.0,87e1a218-a681-478f-8acd-f7d9ece6a411,10~mes,oc
-ANO,0.0,4876c5e1-5f98-4ec1-a8d9-c7bc6180eb6b,11~mes,kt
-ANO,0.0,4876c5e1-5f98-4ec1-a8d9-c7bc6180eb6b,11~mes,oc
-ANO,0.0,3a609d7a-d077-4162-a623-9fc2c73dd3e6,12~mes,kt
-ANO,0.0,3a609d7a-d077-4162-a623-9fc2c73dd3e6,12~mes,oc
-"('08~mes', '-4:-46', 'mm')",0.07864584153678789,6d0e7998-5fa1-4da3-84e1-83237e07a6a6,01~mes,kt
-"('11~mes', '-21:-43', 'mm')",0.049541333379200615,6d0e7998-5fa1-4da3-84e1-83237e07a6a6,01~mes,kt
-"('11~mes', '-20:-44', 'mm')",0.04187559362448061,6d0e7998-5fa1-4da3-84e1-83237e07a6a6,01~mes,kt
-"('10~mes', '2304~prdt', '072~geo2', '999~geo3', 'kt')",0.037313134029855095,6d0e7998-5fa1-4da3-84e1-83237e07a6a6,01~mes,kt
-"('11~mes', '-13:-47', 'mm')",0.036839730123451736,6d0e7998-5fa1-4da3-84e1-83237e07a6a6,01~mes,kt
-ANO,0.0,6d0e7998-5fa1-4da3-84e1-83237e07a6a6,01~mes,oc
-ANO,0.0,c9a23af0-745b-49e7-8c13-659e2444e4e8,02~mes,kt
-ANO,0.0,c9a23af0-745b-49e7-8c13-659e2444e4e8,02~mes,oc
+"('07~mes', '1201~prdt', '101~geo2', '999~geo3', 'kt')",0.02536096123064414,0daff631-6873-4f2c-a861-42d6b86ccec9,03~mes,kt
+"('07~mes', '2304~prdt', '081~geo2', '999~geo3', 'kt')",0.020565597098748226,0daff631-6873-4f2c-a861-42d6b86ccec9,03~mes,kt
+"('03~mes', '1201~prdt', '081~geo2', '999~geo3', 'kt')",0.018266810172040182,0daff631-6873-4f2c-a861-42d6b86ccec9,03~mes,kt
+"('10~mes', '-20:-50', 'mm')",0.016267255646813732,0daff631-6873-4f2c-a861-42d6b86ccec9,03~mes,kt
+"('03~mes', '-6:-50', 'mm')",0.014900092902816799,0daff631-6873-4f2c-a861-42d6b86ccec9,03~mes,kt
+ANO,0.0,0daff631-6873-4f2c-a861-42d6b86ccec9,03~mes,oc
+ANO,0.0,6a2e06b9-1e65-42f4-9e92-8e89cffe59a3,09~mes,kt
+ANO,0.0,6a2e06b9-1e65-42f4-9e92-8e89cffe59a3,09~mes,oc
