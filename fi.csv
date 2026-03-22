@@ -1,9 +1,9 @@
 names,importances,experiment_id,CO_MES,var_target
-"('07~mes', '3104~prdt', '021~geo2', '999~geo3', 'kt')",0.02123742789622633,99262acf-2a23-4fc4-9d9a-721cfebec8d1,03~mes,kt
-"('08~mes', '0901~prdt', '081~geo2', '999~geo3', 'kt')",0.020333186252397616,99262acf-2a23-4fc4-9d9a-721cfebec8d1,03~mes,kt
-"('09~mes', '2304~prdt', '092~geo2', '999~geo3', 'preço_rel')",0.017387286587539266,99262acf-2a23-4fc4-9d9a-721cfebec8d1,03~mes,kt
-"('03~mes', '-29:-55', 'mm')",0.014222126940022669,99262acf-2a23-4fc4-9d9a-721cfebec8d1,03~mes,kt
-"('03~mes', '-6:-50', 'mm')",0.014177517221725583,99262acf-2a23-4fc4-9d9a-721cfebec8d1,03~mes,kt
-ANO,0.0,99262acf-2a23-4fc4-9d9a-721cfebec8d1,03~mes,oc
-ANO,0.0,6e8cde0b-a8ad-4bec-b062-2b2c5cea325d,09~mes,kt
-ANO,0.0,6e8cde0b-a8ad-4bec-b062-2b2c5cea325d,09~mes,oc
+"('10~mes', '2304~prdt', '072~geo2', '999~geo3', 'kt')",0.02878778070882502,50ff8a6d-20e3-4986-a763-214e0ad56cc7,03~mes,kt
+"('01~mes', '3808~prdt', '091~geo2', '999~geo3', 'kt')",0.02094537882177796,50ff8a6d-20e3-4986-a763-214e0ad56cc7,03~mes,kt
+"('05~mes', '2710~prdt', '092~geo2', '999~geo3', 'kt')",0.018125165607594865,50ff8a6d-20e3-4986-a763-214e0ad56cc7,03~mes,kt
+"('12~mes', '-19:-47', 'mm')",0.0176493650436336,50ff8a6d-20e3-4986-a763-214e0ad56cc7,03~mes,kt
+"('07~mes', '-14:-52', 'mm')",0.016926591324460897,50ff8a6d-20e3-4986-a763-214e0ad56cc7,03~mes,kt
+ANO,0.0,50ff8a6d-20e3-4986-a763-214e0ad56cc7,03~mes,oc
+ANO,0.0,f2ea2b64-1757-4d2c-a889-35a98d6823dd,09~mes,kt
+ANO,0.0,f2ea2b64-1757-4d2c-a889-35a98d6823dd,09~mes,oc
