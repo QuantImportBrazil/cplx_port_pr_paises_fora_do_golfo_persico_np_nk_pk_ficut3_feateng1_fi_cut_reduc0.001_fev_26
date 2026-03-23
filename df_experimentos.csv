@@ -7,3 +7,5 @@ e900e5cc-4ac9-402c-852c-b074272b4bb5,2026-02-01 00:00:00,2,0,_ficut3_feateng1_fi
 0     09    3105     091     999   2.6     34.3 -2.2 -553.4  1.0"
 a4ede1db-97f6-432e-8bb4-4eabcd658935,2026-02-01 00:00:00,2,0,_ficut3_feateng1_fi_cut_reduc0.001_fev_26,0.3,20,2,9,13,9,3,4,15,3,4,6,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=5, test_size=None)",1,1,1,"  CO_MES CO_PRDT CO_GEO2 CO_GEO3  rmse  rmse_lr     r2  r2_lr  acc
 0     09    3105     091     999  28.0     34.3 -368.6 -553.4  1.0"
+cd9f5647-0979-4875-bff6-d7ee4b022276,2026-02-01 00:00:00,2,0,_ficut3_feateng1_fi_cut_reduc0.001_fev_26,0.3,20,2,9,7,7,2,4,13,3,2,4,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=5, test_size=None)",1,1,1,"  CO_MES CO_PRDT CO_GEO2 CO_GEO3  rmse  rmse_lr   r2  r2_lr  acc
+0     09    3105     091     999   3.6     34.3 -5.1 -553.4  1.0"
